@@ -1,4 +1,4 @@
 # Curso-Alura
 📚Curso da Alura Finalizado com sucesso 🚀🚀
 
-![Uploading image.png…]()
+<div>![Uploading image.png…]()</div>
